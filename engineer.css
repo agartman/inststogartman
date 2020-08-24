@@ -1,0 +1,133 @@
+body
+{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	background : #AFC8F4;
+	margin : 0px;
+	padding : 0px;
+	border:0px;
+	line-height:1.9;
+}
+
+.isotaulu
+{
+	background-color : #C6DAFF;
+	vertical-align : top;
+	padding : 0px;
+	border:0px;
+	margin-top : 5em;
+	margin-bottom : 5em;
+	width:100%;
+}
+
+#center {
+	position:static;
+	top:50%;
+	bottom:50%;
+	margin : 0px;
+	padding : 0px;
+	border:0px;
+}
+
+.menu
+{
+	text-align : center;
+	font-weight : bolder;
+	height: 30px;
+	vertical-align : middle;
+	margin : 0px;
+	padding : 0px;
+	border:0px;
+	background : #F7F7F7;
+	
+}
+
+.footer
+{
+	background : url('footer.jpg');
+	text-align : center;
+	font-size : xx-small;
+}
+
+.keskimmainen
+{
+	background-color : #C6DAFF;
+	vertical-align : top;
+	margin : 0px;
+	padding : 0px;
+	border:0px;
+}
+
+.sisus
+{
+	background : url('tausta.jpg');
+	background-repeat : repeat-y;
+	vertical-align : top;
+	margin : 0px;
+	margin-bottom :10px;
+	padding : 0px;
+	border:0px;
+	margin-left: 60px;
+}
+
+.sisalto
+{
+	margin-bottom: 30px;
+	padding-left: 20px;
+	width: 600px;
+	vertical-align: top;
+}
+
+.piste
+{
+	background : url('piste.jpg');
+	background-repeat : repeat-y;
+}
+
+img
+{
+	
+	padding : 0px;
+	border:0px;
+}
+
+p, h2,h3,h4,h5
+{
+	
+	text-align : left;
+	
+}
+
+li
+{
+margin-left: 50px;
+}
+
+ul
+{
+	margin : 0px;
+}
+
+
+.menu td {
+width: 162px;
+text-align: center;
+padding: 0;
+border: 1px solid transparent;
+}
+
+
+.menu a {
+	display: block;
+	text-decoration: none;
+	padding: 0.2em;
+	color : Black;
+}
+.menu a:hover {
+	background: #DEDEDE;
+	text-decoration: underline;
+	display:block;
+}
+
+
+
